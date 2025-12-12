@@ -1,56 +1,85 @@
 <h1 align="center">Hello! I am Douglas Dyogo Scarello Remor</h1>
-<p align="center">Python Back-End Developer</p>
+<p align="center">Full Stack Python Developer | AI & Automation Enthusiast</p>
 
 ---
 
 ### 🚀 About Me
 
-I am a professional transitioning into a career as a **Python Back-End Developer**, bringing solid experience in **customer service** and **administrative routines in e-commerce**. 
+I am a **Full Stack Python Developer** specializing in building complex, containerized applications using **Docker** and **PostgreSQL**.
 
-Currently focused on the Back-End career track at Alura, I combine administrative efficiency and pressure management with a strong passion for technology.
+Currently, my focus is on integrating **Local AI Models (LLMs/Ollama)** into automation workflows and ERP systems. I combine strong skills in **Linux Automation (Bash Scripting)** with a solid background in business rules and e-commerce operations to deliver robust software.
 
-* 🐍 **Core Stack:** Python (OOP, Collections, APIs).
-* 🌐 **Web Frameworks:** Learning and building with Django, Flask, and FastAPI.
-* 🗄️ **Data:** SQL and Logic & Algorithms.
-* 💼 **Background:** 4+ years in ERP Management (Bling) and E-commerce workflows.
-* 📍 **Location:** Brazil (GMT-3).
+* 🐍 **Core Focus:** Python Development with high proficiency in Django Rest Framework.
+* ⚛️ **Frontend:** Building interfaces with React.js and Vite.
+* 🤖 **AI & Innovation:** Implementing Local LLMs (Ollama) for intelligent solutions.
+* 🐧 **DevOps:** Linux automation and containerization.
+* 📍 **Location:** Florianópolis, Brazil (GMT-3).
 
 ---
 
 ### 💻 Tech Stack & Skills
 
-| Category | Technologies & Skills | Experience Level |
+#### 🗣️ Languages
+| Technology | Proficiency | Experience |
 | :--- | :--- | :--- |
-| **Languages** | Python, JavaScript (Basic), SQL | **1 Year** |
-| **Frameworks** | Django, Flask, FastAPI | **1 Year / Projects** |
-| **Tools** | Git, GitHub, ERP Bling, POS Systems | **1 - 4 Years** |
-| **Soft Skills** | Problem Solving, Teamwork, Working Under Pressure | **5+ Years** |
+| **Python** | High | 1 Year |
+| **JavaScript** | Intermediate | 1 Year |
+| **HTML5 / CSS3** | Intermediate | 1 Year |
+| **SQL** | Intermediate | 1 Year |
+| **Bash / Shell** | High | 2 Years |
+
+#### 🏗️ Frameworks (Back-End & Front-End)
+| Technology | Type | Experience |
+| :--- | :--- | :--- |
+| **Django & DRF** | Back-End | 1 Year |
+| **FastAPI** | Back-End | 1 Year |
+| **Flask** | Back-End | Projects |
+| **React.js & Vite** | Front-End | 1 Year |
+
+#### 🛠️ Tools, DevOps & Databases
+| Technology | Usage | Experience |
+| :--- | :--- | :--- |
+| **Docker** | Containerization | 1 Year |
+| **PostgreSQL** | Database | 1 Year |
+| **Git / GitHub Flow** | Version Control | 2 Years |
+| **Linux (Manjaro/Gnome)** | OS / Automation | 2 Years |
+
+#### 🔌 APIs & AI Integration
+| Technology | Application |
+| :--- | :--- |
+| **RESTful APIs** | API Design & Consumption |
+| **Local LLMs** | Ollama Integration |
+| **Postman/Insomnia** | API Testing |
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS Badge"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash Badge"/>
+  <br>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django Badge"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI Badge"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask Badge"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL Badge"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS Badge"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge"/>
+  <br>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Badge"/>
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
 </div>
+
+---
+
+### 💼 Professional Background
+
+* **McDonald's (2023 - 2025):** Developed operational resilience and process logic that now influences my ERP software architecture.
+* **Fábrica de Balões (2019 - 2023):** E-commerce Analyst. Managed ERP Bling, NF-e emission, and API integrations, forming the foundation of my backend architecture skills.
 
 ---
 
 ### 🗣️ Languages
 
 * 🇧🇷 **Portuguese:** Native
-* 🇺🇸 **English:** Intermediate (Technical Reading & Comprehension)
+* 🇺🇸 **English:** Intermediate (Technical Reading)
 * 🇪🇸 **Spanish:** Intermediate (Conversational)
-
----
-
-### 📚 My Alura Journey
-
-* **Focus:** Back-End Python Career Track.
-* **Progress:** Mastering REST APIs, Architecture, and Web Protocols.
-* **Goal:** Developing scalable, secure, and quality applications.
 
 ---
 
@@ -75,12 +104,4 @@ Currently focused on the Back-End career track at Alura, I combine administrativ
   <a href="https://wa.me/5548988549237">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
   </a>
-  <a href="https://www.instagram.com/douglassremor">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
 </div>
-
-<br>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DouglasScarello&color=blueviolet" alt="Visitor Count"/>
-</p>
