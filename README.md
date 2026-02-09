@@ -62,9 +62,6 @@ Com base em uma trajetória sólida, combino visão de infraestrutura com arquit
 * **Website Central (2023 - 2024):** Implementação de soluções Web3 e conexões de pagamentos descentralizados com Vue.js e PostgreSQL.
 * **CryptoFuse.net (2023):** Arquitetura integral de uma plataforma de exchange de criptomoedas, do banco de dados ao deploy.
 * **Fábrica de Balões (2019 - 2023):** Gestão técnica de integrações de API de ERP (Bling) e automação de fluxos logísticos.
-
----
-📜 Estudando na Alura
 ---
 ### 🗣️ Idiomas
 
