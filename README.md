@@ -1,107 +1,75 @@
-<h1 align="center">Hello! I am Douglas Dyogo Scarello Remor</h1>
-<p align="center">Full Stack Python Developer | AI & Automation Enthusiast</p>
+<h1 align="center">Olá, eu sou o Douglas Scarello 👋</h1>
+<p align="center">Engenheiro de Software Full Stack | Especialista em Python, Automação e Web3</p>
 
 ---
 
-### 🚀 About Me
+### 👨‍💻 Sobre Mim
 
-I am a **Full Stack Python Developer** specializing in building complex, containerized applications using **Docker** and **PostgreSQL**.
+[cite_start]Sou um **Engenheiro de Software Full Stack**  [cite_start]apaixonado pelo ecossistema Open Source e usuário avançado de Linux (**Manjaro/Arch** e **Debian**)[cite: 9]. [cite_start]Com foco em pragmatismo e eficiência, especializo-me na construção de soluções escaláveis integrando **Django**, **FastAPI**, **Docker** e **LLMs locais**[cite: 7, 11].
 
-Currently, my focus is on integrating **Local AI Models (LLMs/Ollama)** into automation workflows and ERP systems. I combine strong skills in **Linux Automation (Bash Scripting)** with a solid background in business rules and e-commerce operations to deliver robust software.
+[cite_start]Minha trajetória combina uma base sólida em regras de negócio e logística com arquitetura de sistemas moderna, entregando software robusto e de alta performance[cite: 8, 47].
 
-* 🐍 **Core Focus:** Python Development with high proficiency in Django Rest Framework.
-* ⚛️ **Frontend:** Building interfaces with React.js and Vite.
-* 🤖 **AI & Innovation:** Implementing Local LLMs (Ollama) for intelligent solutions.
-* 🐧 **DevOps:** Linux automation and containerization.
-* 📍 **Location:** Florianópolis, Brazil (GMT-3).
+* [cite_start]🐍 **Backend:** Especialista em Python (Django, FastAPI, Flask) com foco em Clean Code e APIs REST[cite: 11, 54].
+* [cite_start]🌐 **Web3:** Experiência na implementação de soluções de criptomoedas e integração de tecnologias descentralizadas[cite: 31, 41].
+* [cite_start]🤖 **IA:** Integração de modelos de linguagem locais (Ollama) em fluxos de trabalho inteligentes[cite: 11, 56].
+* [cite_start]⚙️ **Infra:** Infraestrutura como Código (IaC), Docker, Bash Scripting e CI/CD[cite: 8, 11].
+* [cite_start]📍 **Localização:** Florianópolis, SC - Brasil[cite: 2].
 
 ---
 
-### 💻 Tech Stack & Skills
+### 🛠️ Tecnologias e Habilidades (Baseado em Experiência Real)
 
-#### 🗣️ Languages
-| Technology | Proficiency | Experience |
-| :--- | :--- | :--- |
-| **Python** | High | 1 Year |
-| **JavaScript** | Intermediate | 1 Year |
-| **HTML5 / CSS3** | Intermediate | 1 Year |
-| **SQL** | Intermediate | 1 Year |
-| **Bash / Shell** | High | 2 Years |
-
-#### 🏗️ Frameworks (Back-End & Front-End)
-| Technology | Type | Experience |
-| :--- | :--- | :--- |
-| **Django & DRF** | Back-End | 1 Year |
-| **FastAPI** | Back-End | 1 Year |
-| **Flask** | Back-End | Projects |
-| **React.js & Vite** | Front-End | 1 Year |
-
-#### 🛠️ Tools, DevOps & Databases
-| Technology | Usage | Experience |
-| :--- | :--- | :--- |
-| **Docker** | Containerization | 1 Year |
-| **PostgreSQL** | Database | 1 Year |
-| **Git / GitHub Flow** | Version Control | 2 Years |
-| **Linux (Manjaro/Gnome)** | OS / Automation | 2 Years |
-
-#### 🔌 APIs & AI Integration
-| Technology | Application |
+| Categoria | Tecnologias |
 | :--- | :--- |
-| **RESTful APIs** | API Design & Consumption |
-| **Local LLMs** | Ollama Integration |
-| **Postman/Insomnia** | API Testing |
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS Badge"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash Badge"/>
-  <br>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django Badge"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI Badge"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge"/>
-  <br>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Badge"/>
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
-</div>
+| **Linguagens** | [cite_start]Python (3+ anos), JavaScript (3+ anos), Bash Scripting  |
+| **Frameworks Web** | [cite_start]Django/DRF, FastAPI, Flask, React.js, Vue.js  |
+| **Bancos de Dados** | [cite_start]PostgreSQL, SQLite, MongoDB [cite: 11, 55] |
+| **DevOps & Cloud** | [cite_start]Docker, Git/GitHub Flow, Heroku, Linux Server [cite: 11, 40] |
+| **Especialidades** | [cite_start]Web3 & Crypto, Automação de ERP, Integração de LLMs, Metodologias Ágeis [cite: 11, 31, 47] |
 
 ---
 
-### 💼 Professional Background
+### 💼 Experiência de Destaque
 
-* **McDonald's (2023 - 2025):** Developed operational resilience and process logic that now influences my ERP software architecture.
-* **Fábrica de Balões (2019 - 2023):** E-commerce Analyst. Managed ERP Bling, NF-e emission, and API integrations, forming the foundation of my backend architecture skills.
-
----
-
-### 🗣️ Languages
-
-* 🇧🇷 **Portuguese:** Native
-* 🇺🇸 **English:** Intermediate (Technical Reading)
-* 🇪🇸 **Spanish:** Intermediate (Conversational)
+* [cite_start]**ForgeBot (2025):** Desenvolvimento de bots e sistemas de automação escaláveis usando FastAPI e Django[cite: 16, 17, 20].
+* [cite_start]**Website Central (2023 - 2024):** Implementação de soluções Web3 e conexões de pagamentos descentralizados com Vue.js e PostgreSQL[cite: 25, 27, 31].
+* [cite_start]**CryptoFuse.net (2023):** Arquitetura integral de uma plataforma de exchange de criptomoedas, do banco de dados ao deploy[cite: 34, 36, 37].
+* [cite_start]**Fábrica de Balões (2019 - 2023):** Gestão técnica de integrações de API de ERP (Bling) e automação de fluxos logísticos[cite: 44, 46, 47, 48].
 
 ---
 
-### 🔥 GitHub Stats
+### 🎓 Educação & Certificações
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DouglasScarello&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="DouglasScarello's GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasScarello&layout=compact&theme=radical&hide_border=true&hide=powershell" alt="Top Langs"/>
-</p>
+* [cite_start]**Engenharia de Software com Python** - Alura (2025 - Presente).
+* **Principais Certificações:**
+    * [cite_start]Flask: APIs e Web Apps com MongoDB[cite: 72].
+    * [cite_start]Django: Templates e Melhores Práticas[cite: 60].
+    * [cite_start]Especialista em IA e Segurança em Aplicações[cite: 64, 75].
 
 ---
 
-### 🌐 Connect with Me
+### 🗣️ Idiomas
+
+* [cite_start]🇧🇷 **Português:** Nativo [cite: 13]
+* [cite_start]🇺🇸 **Inglês:** Intermediário (Leitura e Escrita Técnica Avançada) [cite: 14]
+* [cite_start]🇪🇸 **Espanhol:** Intermediário (Conversação) [cite: 14]
+
+---
+
+### 🌐 Vamos nos conectar?
 
 <div align="center">
   <a href="https://www.linkedin.com/in/douglas-remor-395774278/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:dog.douglas10009@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://wa.me/5548988549237">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
 </div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DouglasScarello&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estatísticas do GitHub"/>
+</p>
