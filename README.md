@@ -1,58 +1,90 @@
 <h1 align="center">Olá, eu sou o Douglas Scarello 👋</h1>
 <p align="center">Engenheiro de Software Full Stack | Especialista em Python, Automação e Web3</p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+</p>
+
 ---
 
 ### 👨‍💻 Sobre Mim
 
-[cite_start]Sou um **Engenheiro de Software Full Stack**  [cite_start]apaixonado pelo ecossistema Open Source e usuário avançado de Linux (**Manjaro/Arch** e **Debian**)[cite: 9]. [cite_start]Com foco em pragmatismo e eficiência, especializo-me na construção de soluções escaláveis integrando **Django**, **FastAPI**, **Docker** e **LLMs locais**[cite: 7, 11].
+Sou um **Engenheiro de Software Full Stack** focado em eficiência e escalabilidade. Especializo-me na construção de soluções robustas integrando **Django, FastAPI, Docker e LLMs locais (Ollama)**. 
 
-[cite_start]Minha trajetória combina uma base sólida em regras de negócio e logística com arquitetura de sistemas moderna, entregando software robusto e de alta performance[cite: 8, 47].
+Com base em uma trajetória sólida, combino visão de infraestrutura com arquitetura de sistemas moderna para entregar software de alta performance. Sou entusiasta do ecossistema Open Source e usuário avançado de distribuições **Arch (Manjaro)** e **Debian**.
 
-* [cite_start]🐍 **Backend:** Especialista em Python (Django, FastAPI, Flask) com foco em Clean Code e APIs REST[cite: 11, 54].
-* [cite_start]🌐 **Web3:** Experiência na implementação de soluções de criptomoedas e integração de tecnologias descentralizadas[cite: 31, 41].
-* [cite_start]🤖 **IA:** Integração de modelos de linguagem locais (Ollama) em fluxos de trabalho inteligentes[cite: 11, 56].
-* [cite_start]⚙️ **Infra:** Infraestrutura como Código (IaC), Docker, Bash Scripting e CI/CD[cite: 8, 11].
-* [cite_start]📍 **Localização:** Florianópolis, SC - Brasil[cite: 2].
+* 🐍 **Backend:** Especialista em Python (Django, FastAPI, Flask) com foco em Clean Code e APIs REST.
+* 🌐 **Web3:** Experiência na implementação de soluções de criptomoedas e integração de tecnologias descentralizadas.
+* 🤖 **IA:** Integração de modelos de linguagem locais em fluxos de trabalho inteligentes.
+* ⚙️ **Infra & DevOps:** Infraestrutura como Código (IaC), Docker, Bash Scripting e CI/CD.
+* 📍 **Localização:** Florianópolis, SC - Brasil.
 
 ---
 
-### 🛠️ Tecnologias e Habilidades (Baseado em Experiência Real)
+### 🛠️ Tecnologias e Habilidades
 
-| Categoria | Tecnologias |
-| :--- | :--- |
-| **Linguagens** | [cite_start]Python (3+ anos), JavaScript (3+ anos), Bash Scripting  |
-| **Frameworks Web** | [cite_start]Django/DRF, FastAPI, Flask, React.js, Vue.js  |
-| **Bancos de Dados** | [cite_start]PostgreSQL, SQLite, MongoDB [cite: 11, 55] |
-| **DevOps & Cloud** | [cite_start]Docker, Git/GitHub Flow, Heroku, Linux Server [cite: 11, 40] |
-| **Especialidades** | [cite_start]Web3 & Crypto, Automação de ERP, Integração de LLMs, Metodologias Ágeis [cite: 11, 31, 47] |
+**💻 Linguagens e Web**
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
+</p>
+
+**🚀 Frameworks**
+<p align="left">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/FastAPI-05998B?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js"/>
+</p>
+
+**🗄️ Infraestrutura e Dados**
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</p>
+
+**🌐 Especialidades (Web3 & AI)**
+<p align="left">
+  <img src="https://img.shields.io/badge/Web3-3C3C3D?style=for-the-badge&logo=web3.dot.js&logoColor=white" alt="Web3"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/>
+  <img src="https://img.shields.io/badge/Blockchain-2F0C4E?style=for-the-badge&logo=blockchain.com&logoColor=white" alt="Blockchain"/>
+</p>
 
 ---
 
 ### 💼 Experiência de Destaque
 
-* [cite_start]**ForgeBot (2025):** Desenvolvimento de bots e sistemas de automação escaláveis usando FastAPI e Django[cite: 16, 17, 20].
-* [cite_start]**Website Central (2023 - 2024):** Implementação de soluções Web3 e conexões de pagamentos descentralizados com Vue.js e PostgreSQL[cite: 25, 27, 31].
-* [cite_start]**CryptoFuse.net (2023):** Arquitetura integral de uma plataforma de exchange de criptomoedas, do banco de dados ao deploy[cite: 34, 36, 37].
-* [cite_start]**Fábrica de Balões (2019 - 2023):** Gestão técnica de integrações de API de ERP (Bling) e automação de fluxos logísticos[cite: 44, 46, 47, 48].
+* **ForgeBot (2025):** Desenvolvimento de bots e sistemas de automação escaláveis usando FastAPI e Django.
+* **Website Central (2023 - 2024):** Implementação de soluções Web3 e conexões de pagamentos descentralizados com Vue.js e PostgreSQL.
+* **CryptoFuse.net (2023):** Arquitetura integral de uma plataforma de exchange de criptomoedas, do banco de dados ao deploy.
+* **Fábrica de Balões (2019 - 2023):** Gestão técnica de integrações de API de ERP (Bling) e automação de fluxos logísticos.
 
 ---
 
 ### 🎓 Educação & Certificações
 
-* [cite_start]**Engenharia de Software com Python** - Alura (2025 - Presente).
+* **Engenharia de Software com Python** - Alura (2025 - Presente).
 * **Principais Certificações:**
-    * [cite_start]Flask: APIs e Web Apps com MongoDB[cite: 72].
-    * [cite_start]Django: Templates e Melhores Práticas[cite: 60].
-    * [cite_start]Especialista em IA e Segurança em Aplicações[cite: 64, 75].
+    * Flask: APIs e Web Apps com MongoDB.
+    * Django: Templates e Melhores Práticas.
+    * Especialista em IA e Segurança em Aplicações.
 
 ---
 
 ### 🗣️ Idiomas
 
-* [cite_start]🇧🇷 **Português:** Nativo [cite: 13]
-* [cite_start]🇺🇸 **Inglês:** Intermediário (Leitura e Escrita Técnica Avançada) [cite: 14]
-* [cite_start]🇪🇸 **Espanhol:** Intermediário (Conversação) [cite: 14]
+* 🇧🇷 **Português:** Nativo
+* 🇺🇸 **Inglês:** Intermediário (Leitura e Escrita Técnica Avançada)
+* 🇪🇸 **Espanhol:** Intermediário (Conversação)
 
 ---
 
