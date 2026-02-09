@@ -65,13 +65,28 @@ Com base em uma trajetória sólida, combino visão de infraestrutura com arquit
 
 ---
 
-### 🎓 Educação & Certificações
+### 📜 Certificações (Alura)
 
-* **Engenharia de Software com Python** - Alura (2025 - Presente).
-* **Principais Certificações:**
-    * Flask: APIs e Web Apps com MongoDB.
-    * Django: Templates e Melhores Práticas.
-    * Especialista em IA e Segurança em Aplicações.
+**🐍 Python & Backend**
+* Django: Templates e Melhores Práticas
+* Flask: APIs e Web Apps com MongoDB
+* Python: Persistência de Dados, Bancos de Dados e APIs REST
+* Python: Orientação a Objetos e Consumo de APIs
+* Praticando Python: Strings, Regex, Listas, Tuplas e Funções
+
+**🤖 IA & Segurança**
+* Especialista em IA: Primeiros Passos
+* Desenvolvimento Seguro (Secure App Development)
+* IA e Segurança em Aplicações
+
+**⚙️ Infraestrutura & Ferramentas**
+* Docker: Containerização e Orquestração
+* Git e GitHub: Projetos Colaborativos
+* Redes e Protocolos: Fundamentos da Web
+
+**🧠 Lógica & Carreira**
+* Programação Full Stack: Primeiros Passos
+* Lógica de Programação: JavaScript e Algoritmos
 
 ---
 
