@@ -64,32 +64,8 @@ Com base em uma trajetória sólida, combino visão de infraestrutura com arquit
 * **Fábrica de Balões (2019 - 2023):** Gestão técnica de integrações de API de ERP (Bling) e automação de fluxos logísticos.
 
 ---
-
-### 📜 Certificações (Alura)
-
-**🐍 Python & Backend**
-* Django: Templates e Melhores Práticas
-* Flask: APIs e Web Apps com MongoDB
-* Python: Persistência de Dados, Bancos de Dados e APIs REST
-* Python: Orientação a Objetos e Consumo de APIs
-* Praticando Python: Strings, Regex, Listas, Tuplas e Funções
-
-**🤖 IA & Segurança**
-* Especialista em IA: Primeiros Passos
-* Desenvolvimento Seguro (Secure App Development)
-* IA e Segurança em Aplicações
-
-**⚙️ Infraestrutura & Ferramentas**
-* Docker: Containerização e Orquestração
-* Git e GitHub: Projetos Colaborativos
-* Redes e Protocolos: Fundamentos da Web
-
-**🧠 Lógica & Carreira**
-* Programação Full Stack: Primeiros Passos
-* Lógica de Programação: JavaScript e Algoritmos
-
+📜 Estudando na Alura
 ---
-
 ### 🗣️ Idiomas
 
 * 🇧🇷 **Português:** Nativo
