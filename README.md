@@ -2,29 +2,6 @@
 <p align="center">Engenheiro de Software Full Stack | Especialista em Python, Automação e Web3</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-</p>
-
----
-
-### 👨‍💻 Sobre Mim
-
-Sou um **Engenheiro de Software Full Stack** focado em eficiência e escalabilidade. Especializo-me na construção de soluções robustas integrando **Django, FastAPI, Docker e LLMs locais (Ollama)**. 
-
-Com base em uma trajetória sólida, combino visão de infraestrutura com arquitetura de sistemas moderna para entregar software de alta performance. Sou entusiasta do ecossistema Open Source e usuário avançado de distribuições **Arch (Manjaro)** e **Debian**.
-
-* 🐍 **Backend:** Especialista em Python (Django, FastAPI, Flask) com foco em Clean Code e APIs REST.
-* 🌐 **Web3:** Experiência na implementação de soluções de criptomoedas e integração de tecnologias descentralizadas.
-* 🤖 **IA:** Integração de modelos de linguagem locais em fluxos de trabalho inteligentes.
-* ⚙️ **Infra & DevOps:** Infraestrutura como Código (IaC), Docker, Bash Scripting e CI/CD.
-* 📍 **Localização:** Florianópolis, SC - Brasil.
-
----
-
-### 🛠️ Tecnologias e Habilidades
 
 **💻 Linguagens e Web**
 <p align="left">
@@ -60,6 +37,24 @@ Com base em uma trajetória sólida, combino visão de infraestrutura com arquit
 </p>
 
 ---
+
+</p>
+
+---
+
+### 👨‍💻 Sobre Mim
+
+Sou um **Engenheiro de Software Full Stack** focado em eficiência e escalabilidade. Especializo-me na construção de soluções robustas integrando **Django, FastAPI, Docker e LLMs locais (Ollama)**. 
+
+Com base em uma trajetória sólida, combino visão de infraestrutura com arquitetura de sistemas moderna para entregar software de alta performance. Sou entusiasta do ecossistema Open Source e usuário avançado de distribuições **Arch (Manjaro)** e **Debian**.
+
+* 🐍 **Backend:** Especialista em Python (Django, FastAPI, Flask) com foco em Clean Code e APIs REST.
+* 🌐 **Web3:** Experiência na implementação de soluções de criptomoedas e integração de tecnologias descentralizadas.
+* 🤖 **IA:** Integração de modelos de linguagem locais em fluxos de trabalho inteligentes.
+* ⚙️ **Infra & DevOps:** Infraestrutura como Código (IaC), Docker, Bash Scripting e CI/CD.
+* 📍 **Localização:** Florianópolis, SC - Brasil.
+
+--- 
 
 ### 💼 Experiência de Destaque
 
